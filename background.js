@@ -1,7 +1,4 @@
-/**
- * background.js
- *
- * This script handles the API requests to fetch word definitions,
+/* * This script handles the API requests to fetch word definitions,
  * manages caching to reduce API calls, and communicates with the content script.
  * It now uses the free dictionaryapi.dev, which doesn't require an API key.
  */
